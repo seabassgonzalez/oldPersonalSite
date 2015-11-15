@@ -9,8 +9,8 @@
          @    |X||    X |                             |X||    X |    @
         @     |X||   .X |                             |X||   .X |     @
        @      |X||.  .X |          Sebastian          |X||.  .X |      @
-      @      |%XXXXXXXX%||             in            |%XXXXXXXX%||      @
-     @       |X||  . . X||          The Bay          |X||.  .  X||       @
+      @      |%XXXXXXXX%||         Alejandro         |%XXXXXXXX%||      @
+     @       |X||  . . X||                           |X||.  .  X||       @
     @        |X||   .. X||                           |X||..    X||        @                   
              |X||  .   X||.                         .|X||  .   X||                               
              |X|| .    X|| .                       . |X||   .  X||           
@@ -24,3 +24,8 @@
     ====== /            X||                            ||      % X|| \ ====
                         X||                            ||      % X||
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Learning full-stack Web Development... the journey continues at Telegraph Prep...
+
+Javascript, Node, I like to code
