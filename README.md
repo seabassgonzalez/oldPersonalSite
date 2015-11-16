@@ -27,6 +27,6 @@
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
-Learning full-stack Web Development... the journey continues at Telegraph Prep...
+Learning full-stack Web Development... the journey has begun at Telegraph Academy...
 
 Javascript, Node, I like to code
