@@ -2,3 +2,27 @@ body {
   width: 90%;
   margin: 0 auto;
 }
+#content{
+  overflow: auto;
+}
+#nav{
+  margin: 1%;
+}
+#featuredPost{
+  margin: 1%;
+  height: 10em;
+  margin-bottom: 1em;
+}
+#footer{
+  margin: 1%;
+}
+.article{
+  width: 31%;
+  float: left;
+  margin: 1%;
+  height: 10em;
+  margin-bottom: 1em;
+}
+li{
+  display: inline;
+}
