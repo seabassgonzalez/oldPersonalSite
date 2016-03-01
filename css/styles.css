@@ -14,8 +14,16 @@ body {
   height: 10em;
   margin-bottom: 1em;
 }
+#celfie{
+  float: left;
+  border-radius: 50%;
+  padding: 10px;
+}
+#header{
+  padding: 10px;
+}
 .article{
-  width: 31%;
+  width: 93%;
   float: left;
   margin: 1%;
   height: 10em;
