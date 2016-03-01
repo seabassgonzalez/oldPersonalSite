@@ -16,7 +16,7 @@ body {
 }
 #celfie{
   float: left;
-  border-radius: 50%;
+  border-radius: 35%;
   padding: 10px;
 }
 #header{
